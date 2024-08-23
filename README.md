@@ -65,7 +65,11 @@ The Speech Generator Application is a powerful tool for creating custom speeches
    ```bash
    npm install
    ```
-3. Start the React development server:
+3. Install Node.js dependencies:
+   ```bash
+   npm install jspdf file-saver react react-dom axios
+   ```
+4. Start the React development server:
    ```bash
    npm start
    ```
