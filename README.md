@@ -39,8 +39,8 @@ The Speech Generator Application is a powerful tool for creating custom speeches
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/speech-generator.git
-   cd speech-generator/backend
+   git clone https://github.com/Tarunr09/IBM_PLS.git
+   cd IBM_PLS/flask
    ```
 2. Install Python dependencies:
    ```bash
@@ -59,7 +59,7 @@ The Speech Generator Application is a powerful tool for creating custom speeches
 
 1. Navigate to the frontend directory:
    ```bash
-   cd ../frontend
+   cd IBM_PLS/react
    ```
 2. Install Node.js dependencies:
    ```bash
