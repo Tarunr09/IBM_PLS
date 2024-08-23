@@ -8,7 +8,7 @@ import logging
 logging.basicConfig(level=logging.DEBUG)
 
 # Configure the Google AI API key
-genai.configure(api_key=os.environ.get("API_KEY", "AIzaSyDVmsAiMCEcXnehSB3vSFlAm4eIXvnR2e8"))
+genai.configure(api_key=os.environ.get("API_KEY", "YOUR_API_KEY_HERE"))
 
 # Create the model
 generation_config = {
