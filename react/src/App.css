@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body {
+    overflow-x: hidden;
+}
+
+.custom-image-size {
+    width: 1400px; /* Adjust as needed */
+    height: 100px; /* Adjust as needed */
+    visibility: visible;
+    opacity: 100;
+}
+
+.select-dropdown-icon {
+    position: absolute;
+    inset-y: 0;
+    right: 0;
+    padding: 2px;
+    margin-right: 2px;
+    width: 12px;
+    height: 12px;
+    fill: black; /* Adjust color as needed */
+  }
+  
